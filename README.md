@@ -3,7 +3,11 @@
 Kubernetes helps manage containerized applications in diffrent deployment environments.
 
 Kubernetes components project based to Deployment using Minikube kubectl
+```
+Minikube -one node cluster in which master processes and worker both run on the same
 
+Kubectl -is a commandline tool(cli)for k8s cluster and is the most powerful compared to others in Kubernetes
+```
 # The Main Components of Kubernetes
 
  Node- is a  virtual or physical machine.
