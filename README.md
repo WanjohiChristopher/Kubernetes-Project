@@ -25,3 +25,6 @@ Kubernetes components project based to Deployment using Minikube kubectl
  Volume -used for data persistence (attached in physical drive or kubernetes cluster
  
  Deployment -this is abstraction on pods
+ 
+ Statefulset -helps in replicating pods and uses databases Mysql or MongoDb
+             -Deploying satefulset is hard
