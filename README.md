@@ -57,5 +57,13 @@ kubelet -is a k8s process that enables cluster communicate with each other.
 
 # Kubernetes Configuration
 
+ There are three main parts of  configurations file:
+ ```
+ 1.Metadata
+ 
+ 2.Specification
+ 
+ 3.Status -this is automatically generated.
+ ```
  
 
