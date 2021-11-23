@@ -71,3 +71,4 @@ kubelet -is a k8s process that enables cluster communicate with each other.
  ```
  
 
+Happy Learning!
